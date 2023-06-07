@@ -8,4 +8,4 @@
 lindiny/lindiny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-大家好，我是硬件工程师，编程大家庭，刚开始加入这个大家庭，希望大家多多关照。个人的博客网页是dinyinggzh.com，可关注微信公众号  学电子必备指南
+大家好，我是硬件工程师，编程大家庭，刚开始加入这个大家庭，希望大家多多关照。个人的博客网页是dinyinggzh.com，可关注微信公众号：  学电子必备指南
